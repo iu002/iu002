@@ -13,7 +13,7 @@
 🧠 Focused on **C++, DSA, Web Development**, and learning Python  
 💻 Worked on multiple projects involving file handling, algorithms, and frontend logic  
 🌱 Currently learning **Operating Systems, Blockchain, and AI concepts**  
-🛠️ Passionate about solving real-world problems through code and building impactful tools
+🛠️ Passionate about solving real-world problems through code and building impactful tools  
 
 ---
 
@@ -54,10 +54,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushiPandey011&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPandey011&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiPandey011&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iu002&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iu002&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iu002&theme=gruvbox" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🌐 Profiles
+
+- 💻 **LeetCode**: [Itsayushi](https://leetcode.com/Itsayushi/)
+- 🧑‍💼 **LinkedIn**: [ayushi-pandey-7b19762a1](https://www.linkedin.com/in/ayushi-pandey-7b19762a1)
+- 💌 **Email**: thisisayushi.ap@gmail.com
 
 ---
 
@@ -66,7 +74,8 @@
 <p align="center">
   <a href="mailto:thisisayushi.ap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayushi-pandey-7b19762a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AyushiPandey011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/iu002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/Itsayushi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -78,5 +87,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushiPandey011&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iu002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
